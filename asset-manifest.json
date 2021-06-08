@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/coinapp/static/css/main.9afe77a6.chunk.css",
+    "main.js": "/coinapp/static/js/main.3cf836ed.chunk.js",
+    "main.js.map": "/coinapp/static/js/main.3cf836ed.chunk.js.map",
+    "runtime-main.js": "/coinapp/static/js/runtime-main.e056499e.js",
+    "runtime-main.js.map": "/coinapp/static/js/runtime-main.e056499e.js.map",
+    "static/js/2.ffed0842.chunk.js": "/coinapp/static/js/2.ffed0842.chunk.js",
+    "static/js/2.ffed0842.chunk.js.map": "/coinapp/static/js/2.ffed0842.chunk.js.map",
+    "static/js/3.c1b98c9f.chunk.js": "/coinapp/static/js/3.c1b98c9f.chunk.js",
+    "static/js/3.c1b98c9f.chunk.js.map": "/coinapp/static/js/3.c1b98c9f.chunk.js.map",
+    "index.html": "/coinapp/index.html",
+    "static/css/main.9afe77a6.chunk.css.map": "/coinapp/static/css/main.9afe77a6.chunk.css.map",
+    "static/js/2.ffed0842.chunk.js.LICENSE.txt": "/coinapp/static/js/2.ffed0842.chunk.js.LICENSE.txt",
+    "static/media/coin.83c0d734.svg": "/coinapp/static/media/coin.83c0d734.svg",
+    "static/media/crypto_vid.c0d7c925.gif": "/coinapp/static/media/crypto_vid.c0d7c925.gif",
+    "static/media/expand.13e90032.svg": "/coinapp/static/media/expand.13e90032.svg",
+    "static/media/home.e54d815c.svg": "/coinapp/static/media/home.e54d815c.svg",
+    "static/media/logout.9869f2c3.svg": "/coinapp/static/media/logout.9869f2c3.svg",
+    "static/media/search.59c925ff.svg": "/coinapp/static/media/search.59c925ff.svg",
+    "static/media/wallet.d401b643.svg": "/coinapp/static/media/wallet.d401b643.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e056499e.js",
+    "static/js/2.ffed0842.chunk.js",
+    "static/css/main.9afe77a6.chunk.css",
+    "static/js/main.3cf836ed.chunk.js"
+  ]
+}
