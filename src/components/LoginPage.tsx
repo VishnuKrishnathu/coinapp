@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import {useHistory} from 'react-router-dom';
+import {useHistory, Link} from 'react-router-dom';
 import APIcalls from "./API";
 import "../css/LoginPage.css";
 
@@ -102,7 +102,7 @@ export default function LoginPage() {
                 {errorDisplay && <div id="error-type" style={{color: "red"}}></div>}
                 <div>Don't have an account?<a href="/signup">Create an account</a></div>
             </div>
-            Make sure to read the <a href="/guide">Guide</a> for login details and more
+            Make sure to read the <Link to="/guide">Guide</Link> for login details and more
             </div>
         </div>
     )
