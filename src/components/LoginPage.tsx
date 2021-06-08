@@ -100,7 +100,7 @@ export default function LoginPage() {
                 {!loadingState && <button className="login-button" onClick={loginUser}>LOGIN</button>}
                 {loadingState && <button className="loading-button" disabled>Please Wait...</button>}
                 {errorDisplay && <div id="error-type" style={{color: "red"}}></div>}
-                <div>Don't have an account?<a href="/signup">Create an account</a></div>
+                <div>Don't have an account?<Link to="/signup">Create an account</Link></div>
             </div>
             Make sure to read the <Link to="/guide">Guide</Link> for login details and more
             </div>
